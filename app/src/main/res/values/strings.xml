@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">JStore</string>
+    <string name="text_item">Item Name :</string>
+    <string name="text_category">Item Category :</string>
+    <string name="text_price">Item Price :</string>
+    <string name="text_status">Item Status :</string>
+    <string name="text_payment">Payment Method :</string>
+    <string name="text_period">Installment Period</string>
+    <string name="text_total">Total Price :</string>
+
+    <string name="text_pesananAktif">Pesanan Aktif</string>
+    <string name="text_pesananId">Pesanan ID :</string>
+    <string name="text_biaya">Biaya :</string>
+    <string name="text_jumlahHari">Jumlah Hari :</string>
+    <string name="text_tanggalpesan">Tanggal Pesan :</string>
+    <string name="text_Selesaikan">Selesaikan</string>
+    <string name="text_batalkan">Batalkan</string>
+
+    <string name="title_activity_splash_screen">SplashScreen</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
